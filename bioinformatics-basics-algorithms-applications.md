@@ -48,7 +48,7 @@
    * [RNA-Sequenzierung](https://de.wikipedia.org/wiki/RNA-Sequenzierung)
    * [Proteinsequenzierung](https://de.wikipedia.org/wiki/Proteinsequenzierung)
 
-![sequences in a mathematical sense](images/sequences.png)
+![sequences in a mathematical sense](images/sequences.jpg)
    
    * examples for alphabets
       * [American Standard Code for Information Interchange](https://de.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange)
@@ -67,11 +67,11 @@
    
    * Alphabet für DNA Sequenzen
 
-![alphabet for dna sequences](images/alphabet_dna_sequences.png)
+![alphabet for dna sequences](images/alphabet_dna_sequences.jpg)
 
    * Alphabet für Protein Sequenzen
 
-![alphabet for protein sequences](images/alphabet_protein_sequences.png)
+![alphabet for protein sequences](images/alphabet_protein_sequences.jpg)
 
 compare sequence composition
    * []()
