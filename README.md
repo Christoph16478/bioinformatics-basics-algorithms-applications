@@ -8,12 +8,11 @@ overview and practical trainings in the bioinformatics section
 
 * [Microsoft VS Code](https://code.visualstudio.com/download)
 
-## :pencil2: Usage
+## :pencil2: usage
 
 1. read <code>bioinformatics-basics-algorithms-applications.md</code>  to get an overview
-1. 
 
-## :file_folder: Folder structure ##
+## :file_folder: folder structure ##
 
     bioinformatics-basics-algorithms-applications
     ├── images - added images for bioinformatics-basics-algorithms-applications.md
@@ -21,9 +20,9 @@ overview and practical trainings in the bioinformatics section
     ├── README.md - project overview
     └── bioinformatics-basics-algorithms-applications.md - bioinformatics overview
 
-## :books: Useful markdown resources ##
+## :books: useful markdown resources ##
 
-* [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-* [Complete list of github markdown emojis](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)
-* [Awesome template](https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/README.md)
+* [basic syntax](https://www.markdownguide.org/basic-syntax/)
+* [complete list of github markdown emojis](https://dev.to/nikolab/complete-list-of-github-markdown-emoji-markup-5aia)
+* [awesome template](https://github.com/ma-shamshiri/Human-Activity-Recognition/blob/main/README.md)
 * [.gitignore file](https://git-scm.com/docs/gitignore)
