@@ -43,125 +43,35 @@
                       
 ## sequences and functions
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* definitions and operators
+   * [DNA-Sequenzierung](https://de.wikipedia.org/wiki/DNA-Sequenzierung)
+   * [RNA-Sequenzierung](https://de.wikipedia.org/wiki/RNA-Sequenzierung)
+   * [Proteinsequenzierung](https://de.wikipedia.org/wiki/Proteinsequenzierung)
 
+![sequences in a mathematical sense](images/sequences.png)
+   
+   * examples for alphabets
+      * [American Standard Code for Information Interchange](https://de.wikipedia.org/wiki/American_Standard_Code_for_Information_Interchange)
+      * [Genetischer Code/Alphabet/ACGU/Beispiel](https://de.wikiversity.org/wiki/Genetischer_Code/Alphabet/ACGU/Beispiel)
+      * [Aminosäuren](https://www.chemie.de/lexikon/Aminos%C3%A4uren.html)
+      * [Nukleinbasen](https://de.wikipedia.org/wiki/Nukleinbasen)
 
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [DNA Sequenzen](https://de.wikipedia.org/wiki/DNA-Sequenzierung)
+* [Proteinsequenz](https://de.wikipedia.org/wiki/Aminos%C3%A4uresequenz)
+   * [FASTA-Format](https://de.wikipedia.org/wiki/FASTA-Format)
+   * Proteinsequenz des CAP-Monomers im FASTA Format
 
+![CAP-Monomer in FASTA file format](images/cap_monomer_fasta_format.jpg)
 
+   * [Multiple-FASTA-Datei](https://www.metagenomics.wiki/tools/fastq/multi-fasta-format)
+   
+   * Alphabet für DNA Sequenzen
 
+![alphabet for dna sequences](images/alphabet_dna_sequences.png)
 
+   * Alphabet für Protein Sequenzen
 
+![alphabet for protein sequences](images/alphabet_protein_sequences.png)
 
-
-
-## sequences and funcions
-
-
-
-
-
-
-
-
-
-
-## databases
-
-
-
-
-
-
-## basic concepts of stochastics
-
-
-
-
-
-
-
-
-
-## bayesian decision theory and classifiers
-
-
-
-
-
-
-
-
-## classical cluster- and classification methods
-
-
-
-
-
-
-
-
-## neural networks
-
-
-
-
-
-
-
-## genetic algorithms
-
-
-
-
-
-
-
-
-
-
-## 
-
-
-
-
-
-
-
-
-
-
-
-
-## 
-
+compare sequence composition
+   * []()
