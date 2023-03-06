@@ -16,9 +16,10 @@ overview and practical trainings in the bioinformatics section
 ## :file_folder: Folder structure ##
 
     bioinformatics-basics-algorithms-applications
-    ├── bioinformatics-basics-algorithms-applications.md - bioinformatics overview
+    ├── images - added images for bioinformatics-basics-algorithms-applications.md
     ├── LICENSE - license text
-    └── README.md - project overview
+    ├── README.md - project overview
+    └── bioinformatics-basics-algorithms-applications.md - bioinformatics overview
 
 ## :books: Useful markdown resources ##
 
