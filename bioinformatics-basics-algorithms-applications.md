@@ -73,5 +73,9 @@
 
 ![alphabet for protein sequences](images/alphabet_protein_sequences.jpg)
 
+alternative aminosäuren alphabete
+
+![aternative alphabet for amino acids](images/alternative_alphabet.jpg)
+
 compare sequence composition
    * []()
