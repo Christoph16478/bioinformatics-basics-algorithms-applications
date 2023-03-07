@@ -2,7 +2,7 @@
 
 **bioinformatics - basics, algorithms and applications:**
 
-overview and practical trainings in the bioinformatics section
+overview and practical trainings in bioinformatics.
 
 ## :heavy_check_mark: prerequisites ##
 
@@ -10,7 +10,7 @@ overview and practical trainings in the bioinformatics section
 
 ## :pencil2: usage
 
-1. read <code>bioinformatics-basics-algorithms-applications.md</code>  to get an overview
+1. read <code>bioinformatics-basics-algorithms-applications.md</code> to get an overview
 
 ## :file_folder: folder structure ##
 
