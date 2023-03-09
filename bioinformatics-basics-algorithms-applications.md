@@ -142,7 +142,7 @@ Proteinsequence of CAP-Monomers in FASTA file format:
 
 ![CAP-Monomer in fasta file format](images/cap_monomer_fasta_format.jpg)
 
-   * [multiple-fasta-file](https://www.metagenomics.wiki/tools/fastq/multi-fasta-format)
+ * [multiple-fasta-file](https://www.metagenomics.wiki/tools/fastq/multi-fasta-format)
    
 ### 2.4 Compare sequence compositions
 
@@ -215,7 +215,7 @@ p 50ff.
   * [Download BLAST Software and Databases](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&amp;DOC_TYPE=Download)
   * [BLAST-Algorithmus](https://www.wiki-data.de-de.nina.az/BLAST-Algorithmus.html)
 
-#### Integrated database systems
+##### Integrated database systems
 
 * [GQuery (USA)](https://library.medicine.yale.edu/find/title/entrez)
 
@@ -230,8 +230,143 @@ p 50ff.
 
 * [GenBank](https://www.ncbi.nlm.nih.gov/genbank/)
 
-### 3.2
+### 3.2 RNA Sequence databases
 
 * [ENCODE Project](https://www.encodeproject.org/)
 
-p 60ff.
+* [Rfam (most imprtant database)](https://rfam.org/) 
+
+### 3.3 Proteinsequenzdatenbanken
+
+* [UniProt (most important database)](https://www.uniprot.org/)
+
+### 3.4 3d-structure of databases
+
+* [most important databse for protein-3-d-structures](https://www.rcsb.org/)
+
+#### Nuclein acid databases
+
+* [Nuclein Acid Database](http://ndbserver.rutgers.edu/)
+
+#### Cryo-EM-Database
+
+* [EMDB](https://www.ebi.ac.uk/emdb/)
+
+### 3.5 SMART: Analysis fo domain architecture
+
+* [SMART](http://smart.embl-heidelberg.de/)
+
+### 3.6 STRING: Proteins and their interactions
+
+* [STRING database](https://string-db.org/)
+
+### 3.7 Structural Classification of proteins
+
+* [SCOP 2](https://scop.mrc-lmb.cam.ac.uk/)
+
+### 3.8 Pfam: Compilation of protein families
+
+* []()
+
+### 3.9 COG and eggNOG: Group o forthological Genes
+
+* [COG](https://www.ncbi.nlm.nih.gov/research/cog-project/)
+
+* [eggNOG](http://eggnog5.embl.de/#/app/home)
+
+### 3.10 KEGG: Gene, Genome and illnesses
+
+* [KEGG](https://www.genome.jp/kegg/)
+
+### 3.11 NCBI databases: literature und biological know-how
+
+* [NCBI database]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531099/#:~:text=NCBI%20resources%20include%20Entrez%2C%20the,Genome%20and%20related%20tools%2C%20the](https://www.ncbi.nlm.nih.gov/guide/data-software/))
+
+### 3.12 More databases
+
+* [http://www.ebi.ac.uk/thornton-srv/databases/pdbsum/](http://www.ebi.ac.uk/thornton-srv/databases/pdbsum/)
+* [https://pubmed.ncbi.nlm.nih.gov/](https://pubmed.ncbi.nlm.nih.gov/)
+* [https://www.ncbi.nlm.nih.gov/pmc?db=PMC](https://www.ncbi.nlm.nih.gov/pmc?db=PMC)
+* [https://www.ncbi.nlm.nih.gov/snp/](https://www.ncbi.nlm.nih.gov/snp/)
+* [https://www.ncbi.nlm.nih.gov/nucleotide/](https://www.ncbi.nlm.nih.gov/nucleotide/)
+* [https://www.ncbi.nlm.nih.gov/taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy)
+* [https://www.genome.gov/Funded-Programs-Projects/NHGRI-Genome-Sequencing-Program](https://www.genome.gov/Funded-Programs-Projects/NHGRI-Genome-Sequencing-Program)
+* [https://www.ncbi.nlm.nih.gov/geoprofiles/](https://www.ncbi.nlm.nih.gov/geoprofiles/)
+* [https://www.ncbi.nlm.nih.gov/gds](https://www.ncbi.nlm.nih.gov/gds)
+* [https://www.rcsb.org/](https://www.rcsb.org/)
+* [https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi](https://www.ncbi.nlm.nih.gov/Structure/cdd/wrpsb.cgi)
+* [https://www.ncbi.nlm.nih.gov/Structure/biosystems/docs/biosystems_about.html](https://www.ncbi.nlm.nih.gov/Structure/biosystems/docs/biosystems_about.html)
+* [https://www.ebi.ac.uk/interpro/](https://www.ebi.ac.uk/interpro/)
+* [https://www.brenda-enzymes.org/](https://www.brenda-enzymes.org/)
+* [https://mibig.secondarymetabolites.org/](https://mibig.secondarymetabolites.org/)
+* [https://biocyc.org/](https://biocyc.org/)
+* [https://genexplain.com/transfac/](https://genexplain.com/transfac/)
+* [https://www.yeastgenome.org/](https://www.yeastgenome.org/)
+* [http://119.3.41.228/atmad/index.php](http://119.3.41.228/atmad/index.php)
+* [https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0276-z](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-016-0276-z)
+* [https://reactome.org/](https://reactome.org/)
+
+# II. Learn, Optimize and Decide
+
+* [Stochastic](https://en.wikipedia.org/wiki/Stochastic)
+* [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+* [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning)
+  * [Cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis)
+* [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+* [Genetic algorithm](https://en.wikipedia.org/wiki/Genetic_algorithm)
+
+## 4. Basic concepts of stochastics
+
+* [Statistics](https://en.wikipedia.org/wiki/Statistics)
+* [Probability theory](https://en.wikipedia.org/wiki/Probability_theory)
+* [Experiment (probability theory)](https://en.wikipedia.org/wiki/Experiment_(probability_theory))
+* [Statistical_hypothesis_testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing)
+* [Model](https://en.wikipedia.org/wiki/Model)
+
+### 4.1 Basic terms of descriptive statistics
+* [Descriptive statistics](https://en.wikipedia.org/wiki/Descriptive_statistics)
+  * [absolute frequencies](https://peterstatistics.com/Ultimate/Session2/S02E01-AbsFreq-RelFreq/S02E01-TablesNominal.html#:~:text=An%20alternative%20method%20would%20be,results%20in%204%20%3D%2040%25.)
+  * [relative frequencies](https://peterstatistics.com/Ultimate/Session2/S02E01-AbsFreq-RelFreq/S02E01-TablesNominal.html#:~:text=An%20alternative%20method%20would%20be,results%20in%204%20%3D%2040%25.)
+  * [additive smoothing](https://www.youtube.com/watch?v=wqxlM591dBY)
+ 
+### 4.2 Random variable, probability measure
+
+* [discrete random variable](https://en.wikipedia.org/wiki/Random_variable)
+* [Cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function)
+* [Probability mass function](https://en.wikipedia.org/wiki/Probability_mass_function)
+
+### 4.3 Urn experiments and discrete distributions
+
+#### Binomial distribution as a model for independend experiments
+
+* [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
+
+#### Hypergeometric distribution
+
+* [Hypergeometric distribution](https://en.wikipedia.org/wiki/Hypergeometric_distribution)
+
+#### Geometric distribution
+
+* [Geometric distribution](https://en.wikipedia.org/wiki/Geometric_distribution)
+
+### 4.4 Axioms of Kolmogorov
+
+* [[Axioms of Kolmogorov](https://de.wikipedia.org/wiki/Wahrscheinlichkeitstheorie#Axiome_von_Kolmogorow)](https://de.wikipedia.org/wiki/Wahrscheinlichkeitstheorie#Axiome_von_Kolmogorow)
+
+### 4.5 Conditional probability, independence, Bayes' theorem
+
+* [Conditional independence]([https://de.wikipedia.org/wiki/Stochastische_Unabh%C3%A4ngigkeit](https://en.wikipedia.org/wiki/Conditional_independence))
+* [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+
+### 4.6 Markov chains
+
+* [https://en.wikipedia.org/wiki/Markov_chain](https://en.wikipedia.org/wiki/Markov_chain)
+
+### 4.7 Expected value, variance
+
+* [Expected value](https://en.wikipedia.org/wiki/Expected_value)
+* [Variance](https://en.wikipedia.org/wiki/Variance)
+
+## 4.8 Important probability distributions 
+
+p. 92ff.
