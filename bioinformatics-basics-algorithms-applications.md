@@ -351,7 +351,7 @@ p 50ff.
 
 ### 4.4 Axioms of Kolmogorov
 
-* [[Axioms of Kolmogorov](https://de.wikipedia.org/wiki/Wahrscheinlichkeitstheorie#Axiome_von_Kolmogorow)](https://de.wikipedia.org/wiki/Wahrscheinlichkeitstheorie#Axiome_von_Kolmogorow)
+* [Axioms of Kolmogorov](https://de.wikipedia.org/wiki/Wahrscheinlichkeitstheorie#Axiome_von_Kolmogorow)
 
 ### 4.5 Conditional probability, independence, Bayes' theorem
 
@@ -369,4 +369,39 @@ p 50ff.
 
 ## 4.8 Important probability distributions 
 
-p. 92ff.
+### 4.8.1 [Discrete probability distribution](https://de.wikipedia.org/wiki/Diskrete_Wahrscheinlichkeitsverteilung)
+
+### 4.8.2 [Total continuous distribution](https://de.wikipedia.org/wiki/Stetige_Wahrscheinlichkeitsverteilung)
+
+* [Univariate distribution](https://en.wikipedia.org/wiki/Univariate_distribution)
+* [Z-Score](https://en.wikipedia.org/wiki/Standard_score)
+* [Exponential distribution](https://en.wikipedia.org/wiki/Exponential_distribution)
+
+### 4.9 [Predict random variables](https://de.wikipedia.org/wiki/Stichprobenvarianz_(Sch%C3%A4tzfunktion))
+
+* [Likelihood function](https://en.wikipedia.org/wiki/Likelihood_function)
+* [Maximum likelihood estimation](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation)
+
+### 4.10 Basics of statistical tests
+
+* [Multiple comparisons problem](https://en.wikipedia.org/wiki/Multiple_comparisons_problem)
+
+### 4.11 [Neyman-Pearson method](https://en.wikipedia.org/wiki/Neyman%E2%80%93Pearson_lemma)
+
+## 5. Bayesian decision theory and classifiers
+
+### 5.1 [Bayesian decision theory](https://en.wikipedia.org/wiki/Bayes_estimator)
+
+#### 5.1.1 Examples
+
+* [https://scikit-learn.org/stable/modules/naive_bayes.html](https://scikit-learn.org/stable/modules/naive_bayes.html)
+
+### 5.2 [Marginalize](https://de.wikibooks.org/wiki/Formelsammlung_Statistik/_Wahrscheinlichkeitsrechnung)
+
+### 5.3 [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
+
+### 5.4 [ROC (Receiver operating characteristic) curve](https://en.wikipedia.org/wiki/Receiver_operating_characteristic)
+
+### 5.5 [Statistical methods for small training sets](https://measuringu.com/small-n/)
+
+## 6. Classical cluster and classification methods
