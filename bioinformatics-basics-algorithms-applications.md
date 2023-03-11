@@ -405,3 +405,116 @@ p 50ff.
 ### 5.5 [Statistical methods for small training sets](https://measuringu.com/small-n/)
 
 ## 6. Classical cluster and classification methods
+
+##### [Cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis)
+
+### 6.1 [Metrics and cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis)
+
+### 6.2 Mean squared error
+
+* [Mean squared error](https://en.wikipedia.org/wiki/Mean_squared_error)
+
+### 6.4 [k-means clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+
+### 6.5 [Hierarchical clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
+
+### 6.6 [Affinity propagation](https://en.wikipedia.org/wiki/Affinity_propagation)
+
+### 6.7 [Evaluation of cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis)
+
+### 6.8 [Overlapping clusters](https://www.ibm.com/docs/de/ibm-mq/8.0?topic=clusters-overlapping)
+
+### 6.9 [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+
+## 7. [Neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)
+
+### 7.1 [Neural network architectures](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
+
+### 7.2 [Perceptron](https://en.wikipedia.org/wiki/Perceptron)
+
+* [Treshold functions](https://de-academic.com/dic.nsf/dewiki/1262334)
+
+### 7.3 [Boolean functions](https://en.wikipedia.org/wiki/Boolean_function)
+
+### 7.4 Solvability of classification tasks
+
+* []()
+
+### 7.6 [Lernen in neuronalen Netzen](https://de.wikipedia.org/wiki/Deep_Learning)
+
+### 7.7 [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
+
+### 7.8 Coding the input
+
+* [https://www.askpython.com/python/examples/backpropagation-in-python](https://www.askpython.com/python/examples/backpropagation-in-python)
+
+### 7.9 [Self-organising cards](https://medium.com/machine-learning-researcher/self-organizing-map-som-c296561e2117)
+
+### 7.10 [Deep architectures](https://developer.ibm.com/articles/cc-machine-learning-deep-learning-architectures/)
+
+### 7.11 A neurnal network
+
+* [https://realpython.com/python-ai-neural-network/](https://realpython.com/python-ai-neural-network/)
+* [https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html](https://www.infoworld.com/article/3685569/how-to-build-a-neural-network-in-java.html)
+
+### 7.12 [Neocognitron](https://en.wikipedia.org/wiki/Neocognitron)
+
+### 7.13 [Convolutional Neural Network](https://de.wikipedia.org/wiki/Convolutional_Neural_Network)
+
+### 7.14 Long-term storage of input data
+
+##### [Recurrent neural networks](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+
+##### [Long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory)
+
+### 7.15 [Attention based networks](https://en.wikipedia.org/wiki/Attention_(machine_learning)#:~:text=In%20artificial%20neural%20networks%2C%20attention,important%2C%20parts%20of%20the%20data.)
+
+## 8. [Genetic algorithms](https://en.wikipedia.org/wiki/Genetic_algorithm)
+
+### 8.7 [Genetisches Programmieren](https://en.wikipedia.org/wiki/Genetic_programming)
+
+# III. Bioinformatics algorithms and models
+
+## 9. [Pairwise sequence alignment](https://en.wikipedia.org/wiki/Sequence_alignment)
+
+### 9.1 [Dotplots](https://en.wikipedia.org/wiki/Dot_plot_(bioinformatics))
+
+### 9.2 [Alignment procedure](https://en.wikipedia.org/wiki/Sequence_alignment)
+
+### 9.3 [Levenshtein distance](https://en.wikipedia.org/wiki/Levenshtein_distance)
+
+### 9.4 Determine the similarity of the sequences
+
+* [https://en.wikipedia.org/wiki/Sequence_alignment](https://en.wikipedia.org/wiki/Sequence_alignment)
+
+### 9.5 [Optimales Bewerten von Lücken](https://www.techtarget.com/searchcio/definition/gap-analysis)
+
+## 10. [Sequenzmotive](https://en.wikipedia.org/wiki/Sequence_motif)
+
+### 10.1 [Signature](https://en.wikipedia.org/wiki/Gene_signature)
+
+### 10.2 [PROSITE database](https://en.wikipedia.org/wiki/PROSITE)
+
+### 10.3 [BLOCKS database](http://blocks.fhcrc.org/)
+
+### 10.4 [Sequence profile](https://en.wikipedia.org/wiki/Sequence_profiling_tool)
+
+### 10.5 [Promoter (genetics)](https://en.wikipedia.org/wiki/Promoter_(genetics))
+
+### 10.6 Possibilities and limits of profile-based classification
+
+### 10.7 [Sequence logo](https://en.wikipedia.org/wiki/Sequence_logo)
+
+### 10.8 [Consensus sequence](https://en.wikipedia.org/wiki/Consensus_sequence)
+
+### 10.9 [Low complexity sequences](https://en.wikipedia.org/wiki/Low_complexity_regions_in_proteins)
+
+### 10.10 [SEG algorithm](https://bioinformaticshome.com/tools/cnv/descriptions/SEG.html#gsc.tab=0)
+
+## 11. [Scoring-Schemata](https://application.wiley-vch.de/HOME/bioinformatik/scoring/ueb/scor_ueb.htm)
+
+### 11.1 [Theorie of scoring-matrices](https://application.wiley-vch.de/HOME/bioinformatik/scoring/ueb/scor_ueb.htm)
+
+### 11.3 [Identity matrix](https://en.wikipedia.org/wiki/Identity_matrix)
+
+### 11.4/5 [Point accepted mutation](https://en.wikipedia.org/wiki/Point_accepted_mutation)
