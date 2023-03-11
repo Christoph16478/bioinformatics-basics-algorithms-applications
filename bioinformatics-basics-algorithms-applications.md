@@ -438,8 +438,6 @@ p 50ff.
 
 ### 7.4 Solvability of classification tasks
 
-* []()
-
 ### 7.6 [Lernen in neuronalen Netzen](https://de.wikipedia.org/wiki/Deep_Learning)
 
 ### 7.7 [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
