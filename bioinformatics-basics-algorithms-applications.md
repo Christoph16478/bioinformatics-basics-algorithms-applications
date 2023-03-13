@@ -516,3 +516,31 @@ p 50ff.
 ### 11.3 [Identity matrix](https://en.wikipedia.org/wiki/Identity_matrix)
 
 ### 11.4/5 [Point accepted mutation](https://en.wikipedia.org/wiki/Point_accepted_mutation)
+
+### 11.6 [Alternative to PAM: the JTT-Matrix](https://www.researchgate.net/profile/Tuan-Nguyen-128/publication/311487560_Transcriptomic_characterization_and_curation_of_candidate_neuropeptides_regulating_reproduction_in_the_eyestalk_ganglia_of_the_Australian_crayfish_Cherax_quadricarinatus/links/5848a03708ae61f75de3567c/Transcriptomic-characterization-and-curation-of-candidate-neuropeptides-regulating-reproduction-in-the-eyestalk-ganglia-of-the-Australian-crayfish-Cherax-quadricarinatus.pdf)
+
+### 11.7 [BLOSUM Matrices](https://en.wikipedia.org/wiki/BLOSUM)
+
+### 11.8 [Matrix entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+
+### 11.9 [Scoring schemata and applications](https://application.wiley-vch.de/HOME/bioinformatik/scoring/ueb/scor_ueb.htm)
+
+### 11.10 [Scoring-Functions](https://en.wikipedia.org/wiki/Scoring_functions_for_docking#:~:text=Scoring%20functions%20are%20widely%20used,starting%20points%20for%20drug%20discovery)
+
+## 12. FASTA and the BLAST-Suite
+
+## 12.1 FASTA
+
+* [FASTA Sequence Comparison at the U. of Virginia](https://fasta.bioch.virginia.edu/fasta_www2/fasta_list2.shtml)
+
+* [Software github package](https://github.com/wrpearson/fasta36/tree/v36.3.8)
+
+* [FASTA](https://www.ebi.ac.uk/Tools/sss/fasta/)
+
+## 12.2 BLAST
+
+* [Basic Local Alignment Search Tool](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+
+## 12.4 Approaches to improving performance
+
+## 12.5 [Profile based sequence comparison](https://pubmed.ncbi.nlm.nih.gov/10716175/)
