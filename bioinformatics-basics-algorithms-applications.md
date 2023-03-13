@@ -529,7 +529,7 @@ p 50ff.
 
 ## 12. FASTA and the BLAST-Suite
 
-## 12.1 FASTA
+### 12.1 FASTA
 
 * [FASTA Sequence Comparison at the U. of Virginia](https://fasta.bioch.virginia.edu/fasta_www2/fasta_list2.shtml)
 
@@ -537,10 +537,26 @@ p 50ff.
 
 * [FASTA](https://www.ebi.ac.uk/Tools/sss/fasta/)
 
-## 12.2 BLAST
+### 12.2 BLAST
 
 * [Basic Local Alignment Search Tool](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
-## 12.4 Approaches to improving performance
+### 12.4 Approaches to improving performance
 
-## 12.5 [Profile based sequence comparison](https://pubmed.ncbi.nlm.nih.gov/10716175/)
+### 12.5 [Profile based sequence comparison](https://pubmed.ncbi.nlm.nih.gov/10716175/)
+
+### 12.6 [PSI-BLAST](https://en.wikipedia.org/wiki/CS-BLAST)
+
+* [https://application.wiley-vch.de/HOME/bioinformatik/fastblast/ueb/beybla_ueb.htm#:~:text=PSI%2DBLAST%20ist%20empfindlicher%20als,der%20mit%20einer%20Iterationsrunde%20auskommt.](https://application.wiley-vch.de/HOME/bioinformatik/fastblast/ueb/beybla_ueb.htm#:~:text=PSI%2DBLAST%20ist%20empfindlicher%20als,der%20mit%20einer%20Iterationsrunde%20auskommt.)
+
+### 12.7 [Sensitivity of different sequence comparison methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2286722/)
+
+### 12.8 [Comparison of profiles and consensus sequences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1874647/)
+
+### 12.9 [DELTA-BLAST](https://bio.fandom.com/wiki/DELTA-BLAST)
+
+# 13. Multiple sequence alignments and applications
+
+* [https://www.sciencedirect.com/topics/medicine-and-dentistry/multiple-sequence-alignment#:~:text=Multiple%20sequence%20alignment%20(MSA)%20is,and%20analysed%20with%20computational%20algorithms.](https://www.sciencedirect.com/topics/medicine-and-dentistry/multiple-sequence-alignment#:~:text=Multiple%20sequence%20alignment%20(MSA)%20is,and%20analysed%20with%20computational%20algorithms.)
+
+## 
